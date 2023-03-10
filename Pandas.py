@@ -1,8 +1,8 @@
 # data - data cleaning
 import pandas as pd
 
-a=10
-b=2
+a=15
+b=25
 print(a+b)
 
  
